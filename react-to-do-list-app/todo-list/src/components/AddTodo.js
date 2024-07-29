@@ -44,4 +44,4 @@ const AddTodo = ({ onAdd, editTodo, currentTodo }) => {
     );
 };
 
-export default AddTodo
+export default AddTodo;
