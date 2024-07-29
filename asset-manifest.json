@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hcb-projects/static/css/main.6f6da642.css",
+    "main.js": "/hcb-projects/static/js/main.6728b093.js",
+    "static/js/453.81f383cb.chunk.js": "/hcb-projects/static/js/453.81f383cb.chunk.js",
+    "index.html": "/hcb-projects/index.html",
+    "main.6f6da642.css.map": "/hcb-projects/static/css/main.6f6da642.css.map",
+    "main.6728b093.js.map": "/hcb-projects/static/js/main.6728b093.js.map",
+    "453.81f383cb.chunk.js.map": "/hcb-projects/static/js/453.81f383cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f6da642.css",
+    "static/js/main.6728b093.js"
+  ]
+}
